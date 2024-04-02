@@ -89,5 +89,3 @@ with open(output_path, 'w') as outfile:
     outfile.write("Greatest increase in profits: "+ greatest_increase_date + " ($" + str(greatest_increase) + ")"+'\n')
     outfile.write("Greatest decrease in profits: "+ greatest_decrease_date + " ($" + str(greatest_decrease) + ")"+'\n')
 
-print("------------------------------")
-print("Financial analysis outputs printed to text file as required: "+ output_path )
