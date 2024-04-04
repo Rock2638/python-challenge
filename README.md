@@ -8,6 +8,13 @@ Python script to analyse the financials records from the budget_data.csv in the 
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 The script also writes to a text file in the analysis folder.
+
+pyPoll analysis (pyPoll Folder):
 -
-pyBank analysis (pyBank Folder):
--
+Python script to analyse the set of poll data from election_data.csv in the resources folder. The script calculates and return the following:
+- The total number of votes cast
+- A complete list of candidates who received votes
+- The percentage of votes each candidate won
+- The total number of votes each candidate won
+- The winner of the election based on popular vote
+The script also writes to a text file in the analysis folder.
