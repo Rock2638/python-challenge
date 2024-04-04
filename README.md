@@ -8,4 +8,6 @@ Python script to analyse the financials records from the budget_data.csv in the 
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 The script also writes to a text file in the analysis folder.
-
+-
+pyBank analysis (pyBank Folder):
+-
