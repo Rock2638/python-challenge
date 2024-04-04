@@ -6,7 +6,7 @@ import csv
 
 #set path for file
 csvpath = os.path.join('Resources', 'budget_data.csv')
-print(csvpath)
+
 
 #initialize variables to track the rows and the net total amount
 row_count = 0
